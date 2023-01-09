@@ -1,2 +1,3 @@
 新しいファイルをmainで作成
-pull時のrebase用コミット
+pull時のrebase用コミット without rebase
+pull時のrebase用コミット with rebase
