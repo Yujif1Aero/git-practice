@@ -4,4 +4,4 @@
 rebase-practiceブランチで更新(rebase conflict用)
 rebase pull用-> without rebase (branch確かめよう)
 rebase pull用-> with  rebase
-stash練習(トラック済み)
+stash練習(2nd 変更)
